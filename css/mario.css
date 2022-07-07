@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+header{
+    background-color: #DD0C0C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+header h1{
+    color: white;
+    font-size: 50px;
+}
+
+h1, h2{
+    font-family: 'Russo One', sans-serif;
+}
+
+header img{
+    width: 400px;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+a{
+	color: #DD0C0C;
+}
+
+a:hover{
+	color: #020202;
+}
+
+footer{
+    background-color: #DD0C0C;
+    text-align: center;
+    color: white;
+    padding: 25px;
+
+}
+
+footer p{
+    margin: 0;
+}
+
+p.caption{
+    color: #999999;
+    font: italic;
+    margin-top: 0;
+    text-align: center;
+}
+
+
+
+
